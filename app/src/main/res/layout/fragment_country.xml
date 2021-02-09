@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+
+            <Button
+                android:id="@+id/btn_serbia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:textColor="#F0FFFF"
+                android:text="Serbia"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_france"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="France"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_greece"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Greece"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_india"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="India"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_america"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="America"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_sweden"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Sweden"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_brazil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Brazil"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_canada"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Canada"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_russia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Russia"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_germany"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Germany"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_egypt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Egypt"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_australia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Australia"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_israel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Israel"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_nigeria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Nigeria"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_hungary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Hungary"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_indonesia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Indonesia"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_portugal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Portugal"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_slovenia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Slovenia"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_venuzuela"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Venuzuela"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_cuba"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Cuba"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+            <Button
+                android:id="@+id/btn_morocco"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Morocco"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

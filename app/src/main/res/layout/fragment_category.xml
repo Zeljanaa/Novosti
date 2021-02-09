@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/Business"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Business"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/Health"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Health"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/Science"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Science"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/Sport"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Sport"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/Technology"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Technology"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/Fashion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Fashion"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+
+            <Button
+                android:id="@+id/World"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="World"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/Entertainment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Entertrainment"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/Education"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="30dp"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:text="Education"
+                android:textColor="#F0FFFF"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
